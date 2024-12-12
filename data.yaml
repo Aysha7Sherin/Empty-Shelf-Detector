@@ -1,0 +1,13 @@
+train: c:/Users/user/Desktop/Data Science/DL/DL Projects/SuperMarket Store Shelf Detector/images/train
+val: c:/Users/user/Desktop/Data Science/DL/DL Projects/SuperMarket Store Shelf Detector/images/val
+#test: C:/Users/user/Desktop/Data Science/DL/DL Projects/Empty shelf detector yolov8/test/images
+
+nc: 1
+names: ['Empty']
+
+# roboflow:
+#   workspace: kasetsart-university-5c34h
+#   project: empty-shelf-detector-5u4bp
+#   version: 1
+#   license: CC BY 4.0
+#   url: https://universe.roboflow.com/kasetsart-university-5c34h/empty-shelf-detector-5u4bp/dataset/1
